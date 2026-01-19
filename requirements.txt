@@ -1,0 +1,10 @@
+langchain==0.3.27
+langchain-community==0.3.31
+langchain-ollama==0.3.3
+langgraph==0.6.1
+langchain-core==0.3.83
+cryptography==46.0.3
+sqlalchemy==2.0.45
+python-dotenv==1.2.1
+ollama==0.6.1
+pydantic==2.12.5
